@@ -1,2 +1,2 @@
 # nns-in-c
-Improving my foundation of the C programming language and neural networks
+This is a repository containing my implementations of neural networks in C. 
